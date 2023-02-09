@@ -1,2 +1,2 @@
 #!/bin/bash
-this repository is for shell basics
+this repository is for shell permissions
